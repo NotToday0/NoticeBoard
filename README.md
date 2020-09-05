@@ -14,3 +14,7 @@ npm run serve
 ```
 npm run build
 ```
+### To run the build version (Dist)
+```
+serve -s dist
+```
